@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Citizenship Website</title>
+    <link rel="stylesheet" href="Style.css">
+    <!--This is a test-->
+  </head>
+
+  <body>
+    <center><h1 style="font-size:80px">Citizenship</h1></center>
+    <center><p>"It is not always the same thing to be a good man and a good citizen" - Aristotle</p></center>
+    <br>
+    <br>
+    <hr>
+    <center><h3>What does it mean to be a citizen?</h3></center>
+    <center><p>Honesty.  Compassion.  Respect.  Responsibility.  Courage.  These are all very important aspects of citizenship, but what do they really mean?  Honesty is defined as “a fairness and straightforwardness of conduct”, but how does that apply to being a citizen.  Usually it means that as a citizen of a country, you are to be honest and straightforward with the country that you are a citizen of.  Compassion is defined as “Sympathetic consciousness of others' distress together with a desire to alleviate it” this means that as a citizen of a certain country, you are to be sympathetic towards others in the country, and understand the struggles other citizens are going through.  Respect is defined as “A relation or reference to a particular thing or situation” this means that as a citizen of the country, you should hold the country in a high regard.  Responsibility is defined as “the quality of being able to answer for one’s conduct and obligations” this means that one has to be ready to answer for what they did and why they did it, whether it is for the benefit of the country or not.  Courage is defined as “mental or moral strength to venture, persevere, and withstand danger, fear, or difficulty” this means that a citizen must be ready to stand tall in the face of an enemy for their country.  All of these aspects are absolutely necessary for a citizen to have in order to be the best citizen of the country that they reside in. </p></center>
+    <br>
+    <center><img src="citizens.png"/></center>
+    <br>
+    <hr>
+    <br>
+    <br>
+    <center><p><a href= https://study.com/academy/lesson/what-is-global-citizenship-lesson-for-kids.html>Image source</a></p></center>
+    <center><p><a href="contract.html">My Contract</a></p>
+  </body>
+
+</html>

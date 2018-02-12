@@ -1,0 +1,23 @@
+body{
+  /* Background-color: white; */
+  /*background: #ffffff url("americanFlag.png") no-repeat top left;*/
+  background-color: gray;
+  font-family: "courier", monospace;
+}
+
+hr {
+  border-color: black
+}
+
+h1 {
+  font-family: "courier", monospace;
+}
+
+
+a {
+  color: mediumblue
+}
+
+a:hover {
+  color: rgb(40, 40, 255);
+}
