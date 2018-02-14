@@ -2,7 +2,7 @@ body{
   /* Background-color: white; */
   /*background: #ffffff url("americanFlag.png") no-repeat top left;*/
   background-color: gray;
-  font-family: "courier", monospace;
+  font-family: "courier new", monospace;
 }
 
 hr {
@@ -13,6 +13,9 @@ h1 {
   font-family: "courier", monospace;
 }
 
+h3 {
+  font-family: "georgia";
+}
 
 a {
   color: mediumblue
