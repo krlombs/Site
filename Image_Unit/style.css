@@ -1,0 +1,25 @@
+table, th, td {
+  border: 2.2px solid white;
+  color: white
+}
+
+body{
+  background-color: gray
+}
+
+a {
+  color: skyblue;
+}
+
+p {
+  font-family: Courier;
+  font-size: 13px
+}
+
+td {
+  background-color: black
+}
+
+th {
+  background-color: black
+}

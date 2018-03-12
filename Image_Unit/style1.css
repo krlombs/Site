@@ -1,0 +1,13 @@
+h1, h2, p{
+  font-family: "Comic Sans MS";
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+a {
+  color: blue;
+  font-family: "Comic Sans MS";
+}
