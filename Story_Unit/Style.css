@@ -1,0 +1,31 @@
+p, h1, h2, h3, h4 {
+  color: White;
+  font-family: 'MedievalSharp', cursive;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  font-size: 75px;
+}
+
+table {
+  border: 2.2px solid white;
+  color: white;
+}
+
+th {
+  font-size: 30px;
+  text-align: center;
+}
+
+td {
+  border: 2.2px solid white;
+}
+
+a {
+  color: rgb(38, 249, 14);
+}
