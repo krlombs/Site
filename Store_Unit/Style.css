@@ -1,0 +1,16 @@
+.dark {
+  color: black;
+  background-color: black;
+}
+
+h4 {
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+body {
+  background-color: Black;
+}
